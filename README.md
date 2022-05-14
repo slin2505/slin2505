@@ -4,7 +4,7 @@ Hi 👋 My name is Steven Lin
 Currently working as a trainee web developer for Quick Source
 -------------------------------------------------------------
 
-I just graduated from openClassrooms as a web developer
+Having fun breaking apps
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [slin2505@gmail.com](mailto:slin2505@gmail.com)
