@@ -1,7 +1,7 @@
 Hi 👋 My name is Steven Lin
 ===========================
 
-Currently working as a trainee web developer for Quick Source
+Currently working as a trainee web developer for 
 -------------------------------------------------------------
 
 Having fun breaking apps
